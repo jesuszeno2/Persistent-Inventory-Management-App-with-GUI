@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE 508 Extra credit 1
+Jesus Zeno
 This program will be a simple CRUD data management program that will be able to have persistent
 data by saving a file record. It will initialize a pre-determined list of items if there is no
 csv on file to pull items from. If there is a csv on file, it will use that as the starting point.
