@@ -6,10 +6,6 @@ to allow us to search an item in the update tab so we can see what the current v
 item we want to update.
 """
 
-__author__      = "Silvia Nittel"
-__copyright__   = "Copyright 2022, SIE508, University of Maine"
-__credits__     = ["Silvia Nittel"]
-
 import basic_backend
 import mvc_exceptions as mvc_exc
 import controller
